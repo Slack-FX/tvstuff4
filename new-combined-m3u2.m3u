@@ -1,4 +1,9 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/xPr0xi/tvstuff2/master/nz-mjh-epg.xml"
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/fetchtv.com.au.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/freeview.com.au.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/freeview.com.au.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/ictv.net.au.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/oztivo.net.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Australia/foxtel.com.au.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/USA/3abn.org.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/USA/ustvgo.tv.channels.xml, http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/USA/ustvnow.com.channels.xml
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://styles.redditmedia.com/t5_hwdqt/styles/profileIcon_5xeyvdh9mtl41.png" group-title="News",BBC World News
