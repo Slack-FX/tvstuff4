@@ -1,0 +1,148 @@
+#EXTM3U
+#EXTINF:0 tvg-id="true-stories-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Factual", True Stories
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805505536e0c0008a19c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f11170-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4aac2d62-be3c-4936-b8ac-43fe75b57965&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nick-rewind-au" tvg-logo="http://images.pluto.tv/channels/64805525536e0c0008a19ca8/colorLogoPNG.png" group-title="Nickelodeon", Nick Rewind
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805525536e0c0008a19ca8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f186a0-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cde22eef-f7af-401e-a797-55ed6474df7c&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-traitors-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Reality", The Traitors
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805535dc7a7600088e82f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f57e40-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7c372d14-7e7a-4e04-b746-b48266fcaa0c&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="masterchef-au" tvg-logo="http://images.pluto.tv/channels/64805544f77b61000828ec65/colorLogoPNG.png" group-title="Reality", MasterChef
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805544f77b61000828ec65/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5a550-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cb6b7a8b-88c3-439d-8e57-c283c9829a14&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-bold-and-the-beautiful-classics-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Classic Drama", The Bold & The Beautiful Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805596a51cb80008dce7b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5a551-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c317a37d-44ef-4dc2-a8dc-3480b661df82&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nick-jr-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Nickelodeon", Nick Jr
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/648055a3ee5cc40008af7bfa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5a552-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ee2e4e68-4d6d-4139-b03f-c59070bf1574&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="bondi-rescue-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Factual", Bondi Rescue
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/648055b7536e0c0008a19d62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5a553-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0de4b83-dda1-4b35-958b-6bae2c201cd8&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-graham-norton-show-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Daytime & Talk Shows", The Graham Norton Show
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/648055e68e3c0a0008d74d51/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5a554-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b81e5b67-34f4-4915-907c-afc7564cd5ec&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="xtreme-adventure-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Adventure", Xtreme Adventure
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/648055eadc7a7600088e8532/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5cc60-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=848b7c7c-a5e5-4f5b-8af8-6c78f0c820ed&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="aussie-drama-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Drama", Aussie Drama
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64805611dc7a7600088e8557/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5cc61-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=65f97667-4e10-45cf-97bb-8e73c6c320e7&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="medical-emergency-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Factual", Medical Emergency
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6480562d4cfc2c0008a78285/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5cc62-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6270b2da-34ae-4f81-bc92-6ac3c189273a&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-ridiculousness-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Factual", MTV Ridiculousness
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/648af4e1090e3e000855d1ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5f370-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2e297c3-1d8a-48e8-9314-9ad9f027bba9&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nickteen-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Nickelodeon", NickTeen
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f4202051b900083152e1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5f371-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8328de4b-f1ff-4cb2-96df-331befd33fe7&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-biggest-pop-au" tvg-logo="http://images.pluto.tv/channels/6493f45d157176000850b924/colorLogoPNG.png" group-title="MTV Music", MTV Biggest Pop
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f45d157176000850b924/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5f372-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=699480ee-a5ea-48ca-991e-cb70f75478d3&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-love-au" tvg-logo="http://images.pluto.tv/channels/6493f490d2c47c00084639e7/colorLogoPNG.png" group-title="MTV Music", MTV Love
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f490d2c47c00084639e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5f373-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ab9a70e-3943-49b6-b531-81402f39f9db&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-dating-au" tvg-logo="http://images.pluto.tv/channels/6493f4bded26aa00081eb44a/colorLogoPNG.png" group-title="MTV - Reality", MTV Dating
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f4bded26aa00081eb44a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f5f374-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=657652cb-8580-4df4-bf98-60daa2701d58&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-reality-au" tvg-logo="http://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="MTV - Reality", MTV Reality
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f4f566e485000853d640/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a80-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=81280f21-57d4-499d-bc96-a5796852b019&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-retro-au" tvg-logo="http://images.pluto.tv/channels/6493f52d157176000850b951/colorLogoPNG.png" group-title="MTV", MTV Retro
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f52d157176000850b951/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a81-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6c4ee58-6637-4490-8897-31bd25c615fa&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nicktoons-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Nickelodeon", NickToons
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f5634c014a00083d2e35/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a82-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cc3c89e2-4b64-4cc0-8837-90a05f586f7c&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nick-classics-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Nickelodeon", Nick Classics
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f5b5ed26aa00081eb48f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a83-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0d36a513-01b5-4169-9c4f-a2bfd1b9e44d&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="judge-judy-au" tvg-logo="http://images.pluto.tv/channels/6493f6141601440008699442/colorLogoPNG.png" group-title="Daytime & Talk Shows", Judge Judy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f6141601440008699442/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a84-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2564f497-3a5e-4e7a-a754-f52c05e4f4a3&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="survivor-us-au" tvg-logo="http://images.pluto.tv/channels/6493f6499df8dd0008539dae/colorLogoPNG.png" group-title="Reality", Survivor US
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f6499df8dd0008539dae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a85-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=352311b0-258b-4bb8-96e2-696a2302b696&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="americas-next-top-model-au" tvg-logo="http://images.pluto.tv/channels/6493f680ed26aa00081eb4d5/colorLogoPNG.png" group-title="Reality", America's Next Top Model
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f680ed26aa00081eb4d5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a86-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=57c94cef-04a3-44fb-b729-649b1de30975&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-drew-barrymore-show-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Daytime & Talk Shows", The Drew Barrymore Show
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f6afed26aa00081eb4ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a87-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a42f6234-e41c-4253-beda-4ec361615e05&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="48-hours-au" tvg-logo="http://images.pluto.tv/channels/6493f6d24c014a00083d2ecd/colorLogoPNG.png" group-title="Factual", 48 Hours
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f6d24c014a00083d2ecd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f61a88-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=47b8d39d-6c61-47ba-a226-0a22c09a0124&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="beverly-hills-90210-au" tvg-logo="http://images.pluto.tv/channels/6493f6fc2051b900083154e6/colorLogoPNG.png" group-title="Classic Drama", Beverly Hills 90210
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f6fc2051b900083154e6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64190-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82813e16-1316-41f9-991c-16f66643f6ef&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="diagnosis-murder-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Classic Drama", Diagnosis Murder
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f72eed26aa00081eb526/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64191-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5659a55f-75c4-44a4-b5f0-f487fe4a4a33&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-twilight-zone-au" tvg-logo="http://images.pluto.tv/channels/6493f76666e485000853d723/colorLogoPNG.png" group-title="Classic Drama", The Twilight Zone
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f76666e485000853d723/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64192-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=648a70ee-a5c9-4204-979d-3786423273b9&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-brady-bunch-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Sitcom Central", The Brady Bunch
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f7b6157176000850bb3b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64193-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=82662f95-fe6c-4ae7-8986-6e7926fc550e&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="becker-au" tvg-logo="http://images.pluto.tv/channels/6493f7e316014400086995a7/colorLogoPNG.png" group-title="Sitcom Central", Becker
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f7e316014400086995a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64194-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db908856-30b2-4b62-8692-90b499c238fa&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mission-impossible-au" tvg-logo="http://images.pluto.tv/channels/6493f8404c014a00083d2f96/colorLogoPNG.png" group-title="Classic Drama", Mission Impossible
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f8404c014a00083d2f96/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64195-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=396145c4-7481-44e4-a6ef-5940523f76bb&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="i-love-lucy-au" tvg-logo="http://images.pluto.tv/channels/6493f869115d060008b956d4/colorLogoPNG.png" group-title="Sitcom Central", I Love Lucy
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f869115d060008b956d4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64196-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=237bfa95-10a2-430a-bdc2-7fa4882051d8&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="gunsmoke-au" tvg-logo="http://images.pluto.tv/channels/6493f88ed2c47c0008463cab/colorLogoPNG.png" group-title="Classic Drama", Gunsmoke
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f88ed2c47c0008463cab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64197-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=84cdb7f4-29ce-4e29-a425-01df16ff1eef&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="matlock-au" tvg-logo="http://images.pluto.tv/channels/6493f8b0115d060008b957cf/colorLogoPNG.png" group-title="Classic Drama", Matlock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f8b0115d060008b957cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64198-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c6a115-53d9-4193-91e7-308f80671123&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="happy-days-au" tvg-logo="http://images.pluto.tv/channels/6493f8d7115d060008b9589c/colorLogoPNG.png" group-title="Sitcom Central", Happy Days
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f8d7115d060008b9589c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f64199-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e29c2ae-9207-4942-9d0c-27ef4c066796&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="dynasty-au" tvg-logo="http://images.pluto.tv/channels/6493f9051601440008699bcf/colorLogoPNG.png" group-title="Classic Drama", Dynasty
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f9051601440008699bcf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f6419a-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea93ba47-998b-485c-8593-c74a9a2a4adb&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="hawaii-five-o-au" tvg-logo="http://images.pluto.tv/channels/6493f93766e485000853e5e1/colorLogoPNG.png" group-title="Classic Drama", Hawaii Five-0
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6493f93766e485000853e5e1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f6419b-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2af94679-0b23-42e3-ba3a-0f68f40ad286&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="south-park-au" tvg-logo="http://images.pluto.tv/channels/64a670f4bc3ab4000831b94e/colorLogoPNG.png" group-title="Testing", South Park
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64a670f4bc3ab4000831b94e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a0-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c163c3a3-7e06-4a46-861d-a5218bc7f962&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="the-dog-house-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", The Dog House
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e33a6dc630a900088aa4a0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a1-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8cab05a3-f270-419b-bfcf-76f4cb26be36&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="seasonal-movies-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", Seasonal Movies
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e33abb9c1e3900083eaf1e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a2-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8b7d8c9-a6b4-4940-844f-c4fef4c1364d&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-music-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", MTV Music
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e33ae4286f6b0008341cb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a3-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=28bef0b5-3308-46f2-b16f-ec7e6c5f5983&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="world-of-football-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", World Of Football
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e33cc83d48f400089574e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a4-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d88149c9-f13b-476c-9f0e-32dbc84118ba&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="mtv-geordie-shore-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="MTV - Reality", MTV Geordie Shore
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a904554a10d8000863911b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a5-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88c00fc4-a014-4b64-b06e-35c303931246&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="avatar-the-last-airbender-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Nickelodeon", Avatar: The Last Airbender
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcf409dc10a40008e615ae/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a6-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f4344b33-0832-4e57-bfda-92012f90fefc&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="ghost-hunters-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Factual", Ghost Hunters
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c24ee011ced700080e199b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a7-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7eca2c5e-a709-45b3-b698-5860ec61fce9&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="crime-hunters-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", Crime Hunters
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c24f1aec452d0008989ee4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a8-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4a148a23-79e0-40e5-9542-70c11ed8d2cb&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="nickelodeon-pop-up-shell-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", Nickelodeon Pop-Up Shell
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c24feddc10a40008f020b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f668a9-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3b09bfc1-9d04-417d-940d-c421164b6944&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="south-park-2-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", South Park 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65df4bb6332fec000845e088/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f68fb0-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4968483b-1281-4fa3-ae71-2ec38f03150a&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="good-chef-bad-chef-au" tvg-logo="http://images.pluto.tv/missing.png" group-title="Testing", Good Chef Bad Chef
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65e06535332fec0008485bf4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a3f68fb1-0606-11ef-9a07-b3d1f3894f30&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b17092dd-b72e-471a-bb0c-622042ea49fe&userId=&serverSideAds=true
+
